@@ -139,5 +139,5 @@ GPL15380 |"Homo sapiens" |GGHumanMethCancerPanelv1
 GPL15396 |"Homo sapiens" |hthgu133b
 GPL17897 |"Homo sapiens" |hthgu133a
 
-**The tool is develoed by Xingyi Liu**
+
 **The tool is developed by Xingyi Liu, for questions and comments please contact email--liuxingyisw@outlook.com**
